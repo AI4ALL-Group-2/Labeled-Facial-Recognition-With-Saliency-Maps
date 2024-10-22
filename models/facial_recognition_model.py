@@ -1,0 +1,1 @@
+# model architecture for labeled facial recognition
