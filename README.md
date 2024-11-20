@@ -1,9 +1,9 @@
 # Labeled Facial Recognition With Saliency Maps
 
 ## Code use example
-**Data pre-processing**
-**Create model:** [link](https://youtu.be/SCK2uQfLqEk)
-**Validate and predict model** [link](https://youtu.be/l4pWWUXcC_Q)
+**Data pre-processing**  
+**Create model:** [link](https://youtu.be/SCK2uQfLqEk)  
+**Validate and predict model** [link](https://youtu.be/l4pWWUXcC_Q)  
 
 ## CNN - Deep Learning, TensorFlow, and Keras
 **Please watch this video to have the basic idea of our project.**  
